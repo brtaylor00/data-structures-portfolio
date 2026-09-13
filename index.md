@@ -10,4 +10,4 @@ This website will document my learning and projects throughout the semester.
 - [Blog](blog.md)
 - [Projects](projects.md)
 - [LinkedIn](https://www.linkedin.com/in/bradley-taylor-852723394/?skipRedirect=true)
-- [Resume].(Resume.pdf)
+- [Resume](Resume.pdf)
